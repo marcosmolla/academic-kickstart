@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Marco Smolla
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoc in Cultural Evolution<br>and Theoretical Biology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Pennsylvania
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cultural Evolution
+- Social Dynamics
+- Society-Culture Coevolution
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Evolutionary Biology
+    institution: University of Manchester, UK
+    year: 2017
+  - course: Dioplom (MSc equivalent) in Biology
+    institution: University of Würzburg, Germany
+    year: 2011
+  - course: Vordiplom (BSc equivalent) in Biology
+    institution: Universtiy of Jena, Germany
     year: 2008
 
 # Social/Academic Networking
@@ -47,13 +47,16 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/smollamarco
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.de/citations?user=_IlwVlcAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6367-8765
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/marcosmolla
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Marco Smolla is a Postdoctoral Fellow in Theoretical Biology at the University of Pennsylvania. His research focusses broadly on the evolutionary origins and dynamics of social behaviours, such as individual cooperation, group coordination, and cultural evolution. In previous projects he studied self-organisation and division of labour in social insects, and later expanded on this topic by looking at the effect of competition on the utility of social learning, the fundamental mechanism that allows culture to evolve. At his current position in Philadelphia, he studies the co-evolution of culture and population structure. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He is interested in the complex feedbacks between individual actors, the group, and the environment. His goal is to use theory to guide research questions, produce testable hypothesis, and build bridges between the diverse disciplines involved in the study of cultural evolution.
