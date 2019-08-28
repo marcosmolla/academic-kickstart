@@ -9,5 +9,6 @@ featured: false
 publication: "*Royal Society Open Science*"
 url_pdf: "https://royalsocietypublishing.org/doi/10.1098/rsos.182084"
 doi: "10.1098/rsos.182084"
+url_code: "https://github.com/marcosmolla/learning_sexes"
 ---
 

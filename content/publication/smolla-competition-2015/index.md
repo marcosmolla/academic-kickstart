@@ -9,6 +9,7 @@ featured: false
 publication: "*Proceedings of the Royal Society B: Biological Sciences*"
 tags: ["ecology", "evolution", "computational biology"]
 url_pdf: "http://rspb.royalsocietypublishing.org/content/282/1815/20151405.abstract"
+url_poster: "https://www.researchgate.net/publication/281969847_ESEB_Symposium_Poster"
 doi: "10.1098/rspb.2015.1405"
 ---
 

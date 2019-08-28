@@ -9,6 +9,7 @@ featured: false
 publication: "*Arthropod Structure and Development*"
 tags: ["Serotonin", "Bleaching pigments", "Hydrogen-peroxide", "Immunocytochemistry", "Insect anatomy", "Transparent cuticle"]
 url_pdf: "http://dx.doi.org/10.1016/j.asd.2013.12.006"
+url_video: "https://youtu.be/TML2-4LWP88"
 doi: "10.1016/j.asd.2013.12.006"
 ---
 

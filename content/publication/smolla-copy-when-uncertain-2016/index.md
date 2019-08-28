@@ -8,6 +8,7 @@ abstract: "To understand the relative benefits of social and personal informatio
 featured: false
 publication: "*Biology Letters*"
 url_pdf: "http://rsbl.royalsocietypublishing.org/lookup/doi/10.1098/rsbl.2016.0188"
+url_dataset: "https://doi.org/10.5061/dryad.3jb68"
 doi: "10.1098/rsbl.2016.0188"
 ---
 
