@@ -142,7 +142,7 @@ main_menu = {align = "l", show_logo = true}
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Link authors to their profile page? (true/false)
 link_authors = true
